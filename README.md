@@ -2,11 +2,11 @@
 The technical interview knowledge that a junior backend developer should possess.
 
 
-# 주니어 백엔드 개발자가 갖추어야 할 기술 면접 지식
+# 주니어 개발자 인터뷰 가이드(2024.04.20 한빛미디어 세미나) 
 
-# 소개
+## 소개
 
-![jeju.jpeg](./image/book.jpg)
+![book.jpeg](./image/book.jpg)
 
 ### 19년차 백엔드 개발자
 
