@@ -517,7 +517,7 @@ The technical interview knowledge that a junior backend developer should possess
 
 또는 [https://architecturenotes.co/database-sharding-explained/](https://architecturenotes.co/database-sharding-explained/) 를 참고하세요.
 
-![DB.jpeg](./image/DB.jpeg)
+![DB.jpeg](./image/db.jpeg)
 
 # 인기있는 질문들
 > **언어나 프레임워크는 스스로 스펙을 명확히 파악하셔야 합니다.**
