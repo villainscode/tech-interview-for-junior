@@ -1,8 +1,51 @@
 # tech-interview-for-junior
+<hr>
 The technical interview knowledge that a junior backend developer should possess.
 
 
+# Table of Contents
+<hr>
+
+- [tech-interview-for-junior](#tech-interview-for-junior)
+- [주니어 개발자 인터뷰 가이드(2024.04.20 한빛미디어 세미나)](#----------------20240420-----------)
+    * [소개](#--)
+        + [19년차 백엔드 개발자](#19----------)
+        + [경력](#--)
+        + [Git](#git)
+        + [Contact](#contact)
+- [책 소개](#----)
+    * [취업/이직을 위한 준비](#------------)
+    * [회사 찾기](#-----)
+    * [코딩 테스트](#------)
+- [회사가 선택하는 주니어 개발자의 기준](#--------------------)
+    * [채용 공고를 분석해보자.](#------------)
+        + [채용 기준](#-----)
+        + [우대사항 - 기존 서비스를 스프링부트 기반 프레임워크로 전환해본 경험이 있는 분](#--------------------------------------------)
+        + [내 동료를 내가 직접 뽑아야 한다고 상상해보자.](#-------------------------)
+        + [내 이력서를 기반으로 모의 면접을 진행해보자.](#------------------------)
+    * [역량이란 무엇일까?](#----------)
+        + [주니어 개발자는 무엇을 갖추어야 할까?](#---------------------)
+        + [주니어 개발자의 스킬셋 예시](#---------------)
+        + [회사가 기대하는 주니어 개발자의 자질은?](#----------------------)
+    * [경력직이라면?](#-------)
+        + [신입과 경력 모두 주의깊게 봐야 할 채용 공고](#-------------------------)
+        + [실제 평가표를 기준으로 고민해보자.](#------------------)
+        + [💡 정리하자면](#--------)
+    * [주니어 개발자를 위한 기술 로드맵](#------------------)
+        + [기술 목록 첫번째 - 전반적인 백엔드 기술 로드맵](#---------------------------)
+        + [기술 목록 두번째 - 자바 학습 로드맵](#---------------------)
+        + [기술 목록 세번째 - 시니어가 되어 가는 길목에서 알아야 할 것들](#------------------------------------)
+        + [기술 목록 네번째 - 시니어로써 설계 경험을 쌓을 무렵 알아둬야 할 데이터베이스 확장 처리 전략](#-----------------------------------------------------)
+- [인기있는 질문들](#--------)
+- [사전 질문 및 Q&A](#--------q-a)
+- [끝맺음](#---)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+<hr>
+
 # 주니어 개발자 인터뷰 가이드(2024.04.20 한빛미디어 세미나) 
+<hr>
 
 ## 소개
 
@@ -32,6 +75,7 @@ The technical interview knowledge that a junior backend developer should possess
 - email - [villainscode@gmail.com](mailto:villainscode@gmail.com)
 
 # 책 소개
+<hr>
 
 > **책을 집필한 이유**
 >
@@ -184,8 +228,9 @@ The technical interview knowledge that a junior backend developer should possess
 
 ## 코딩 테스트
 
-> **알고리즘 관련 공부를 시작하기 위한 단계별 학습 로드맵
-결국 코딩 테스트를 통해 1차 필터링을 하겠다는 의도가 강하게 작용하는 관문으로 3개월 정도는 집중적으로 공부해야 한다.**
+> **알고리즘 관련 공부를 시작하기 위한 단계별 학습 로드맵. <br>
+> 결국 코딩 테스트를 통해 1차 필터링을 하겠다는 의도가 강하게 작용하는 관문으로 3개월 정도는 집중적으로 공부해야 한다.**<br>
+> 책에 자세한 공부 방식과 코딩 테스트 예제들이 수록되어 있습니다.
 >
 
 기술 면접을 위한 첫 관문, 채용의 첫 허들로 제일 많은 지원자들이 탈락한다. 코딩 테스트에 부담을 많이 느낀다면 아래의 로드맵을 통해 접근해보자.
@@ -236,6 +281,8 @@ The technical interview knowledge that a junior backend developer should possess
     - 컨테이너 플랫폼 환경의 이해
 
 # 회사가 선택하는 주니어 개발자의 기준
+<hr>
+
 
 > **채용은 결국 같이 일할 사람을 뽑는 활동**
 >
@@ -257,6 +304,8 @@ The technical interview knowledge that a junior backend developer should possess
 채용 사이트에서 본인의 기술 스택이랑 일치하는 회사로 검증해보지. 
 [https://www.wanted.co.kr/wdlist/518?country=kr&job_sort=job.recommend_order&years=-1&locations=all](https://www.wanted.co.kr/wdlist/518?country=kr&job_sort=job.recommend_order&years=-1&locations=all)
 
+아래는 가상의 채용 공고를 분석해본 사례이다. 
+
 ### 채용 기준  
 1. 3년 이상의 백엔드 개발 경력 또는 이에 준하는 경험이 있는 분
 2. 파이썬, 자바, 코틀린 중 한 개 이상의 충분한 개발 경험이 있는 분
@@ -277,6 +326,8 @@ The technical interview knowledge that a junior backend developer should possess
 
 해당 조건에 나는 얼마나 (기술적으로) 부합하는가?를 판단해보자.
 채용기준의 4, 5번으로 볼 때 MSA와 비동기 관련 기술에 대한 이해가 있어야 한다.
+책에 더 자세한 내용이 기술되어 있다. 
+
 
 ### 내 동료를 내가 직접 뽑아야 한다고 상상해보자.
 
@@ -520,8 +571,10 @@ The technical interview knowledge that a junior backend developer should possess
 ![DB.jpeg](./image/db.jpeg)
 
 # 인기있는 질문들
-> **언어나 프레임워크는 스스로 스펙을 명확히 파악하셔야 합니다.**
->
+<hr> 
+
+> **언어나 프레임워크는 스스로 스펙을 명확히 파악하셔야 합니다.** <br>
+> 책에 더 자세한 내용이 기술되어 있습니다.
 
 외우지 마시고 이해해야 합니다. 코드로 구현해서 테스트를 해보고 어떤 차이점이 있는지, 어떤 특징이 있는지 실험하세요.
 
@@ -552,6 +605,7 @@ The technical interview knowledge that a junior backend developer should possess
 - MicroServices Architecture
 
 # 사전 질문 및 Q&A
+<hr> 
 
 > **경험이 부족한 영역은 간접학습(책, 온라인 커뮤니티, 멘토링, 동영상)을 꾸준히 찾아서 보세요.**
 >
@@ -597,6 +651,7 @@ The technical interview knowledge that a junior backend developer should possess
     - 자기계발, 연봉을 올리는 행위와 직결된 것들에는 돈(시간, 경험, 도움)을 투자해야 한다.
 
 # 끝맺음
+<hr> 
 
 - 요즘 채용시장 상황이…
 - 금리가...
