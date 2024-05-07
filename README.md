@@ -48,6 +48,11 @@ The technical interview knowledge that a junior backend developer should possess
 ## 소개
 
 ![book.jpeg](./image/book.jpg)
+>
+> Yes24 - https://www.yes24.com/Product/Goods/125554439
+> 
+> KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
+> 
 
 ### 19년차 백엔드 개발자
 
