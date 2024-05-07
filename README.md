@@ -42,10 +42,9 @@ The technical interview knowledge that a junior backend developer should possess
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-<hr>
 
 # 주니어 개발자 인터뷰 가이드(2024.04.20 한빛미디어 세미나) 
-<hr>
+
 
 ## 소개
 
@@ -75,7 +74,6 @@ The technical interview knowledge that a junior backend developer should possess
 - email - [villainscode@gmail.com](mailto:villainscode@gmail.com)
 
 # 책 소개
-<hr>
 
 > **책을 집필한 이유**
 >
@@ -281,8 +279,6 @@ The technical interview knowledge that a junior backend developer should possess
     - 컨테이너 플랫폼 환경의 이해
 
 # 회사가 선택하는 주니어 개발자의 기준
-<hr>
-
 
 > **채용은 결국 같이 일할 사람을 뽑는 활동**
 >
@@ -571,7 +567,7 @@ The technical interview knowledge that a junior backend developer should possess
 ![DB.jpeg](./image/db.jpeg)
 
 # 인기있는 질문들
-<hr> 
+
 
 > **언어나 프레임워크는 스스로 스펙을 명확히 파악하셔야 합니다.** <br>
 > 책에 더 자세한 내용이 기술되어 있습니다.
@@ -605,7 +601,6 @@ The technical interview knowledge that a junior backend developer should possess
 - MicroServices Architecture
 
 # 사전 질문 및 Q&A
-<hr> 
 
 > **경험이 부족한 영역은 간접학습(책, 온라인 커뮤니티, 멘토링, 동영상)을 꾸준히 찾아서 보세요.**
 >
@@ -651,7 +646,6 @@ The technical interview knowledge that a junior backend developer should possess
     - 자기계발, 연봉을 올리는 행위와 직결된 것들에는 돈(시간, 경험, 도움)을 투자해야 한다.
 
 # 끝맺음
-<hr> 
 
 - 요즘 채용시장 상황이…
 - 금리가...
