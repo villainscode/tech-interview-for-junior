@@ -41,7 +41,8 @@ The technical interview knowledge that a junior backend developer should possess
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
-# 주니어 개발자 인터뷰 가이드(2024.04.20 한빛미디어 세미나) 
+# 주니어 개발자 인터뷰 가이드
+2024.04.20 한빛미디어 세미나자료 입니다. 신입 및 주니어를 대상으로 하였고, 더 자세한 내용은 책([개발자 기술면접 노트](https://product.kyobobook.co.kr/detail/S000212738756) 를 참고하세요. 
 
 
 ## 소개
