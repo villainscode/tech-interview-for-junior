@@ -1,10 +1,8 @@
 # tech-interview-for-junior
-<hr>
 The technical interview knowledge that a junior backend developer should possess.
 
 
 # Table of Contents
-<hr>
 
 - [tech-interview-for-junior](#tech-interview-for-junior)
 - [주니어 개발자 인터뷰 가이드(2024.04.20 한빛미디어 세미나)](#----------------20240420-----------)
