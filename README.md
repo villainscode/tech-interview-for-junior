@@ -301,7 +301,7 @@ The technical interview knowledge that a junior backend developer should possess
 
 ![네이버](./image/naver.png)
 
-채용 사이트에서 본인의 기술 스택이랑 일치하는 회사로 검증해보지. 
+채용 사이트에서 본인의 기술 스택이랑 일치하는 회사로 검증해보자. 
 [https://www.wanted.co.kr/wdlist/518?country=kr&job_sort=job.recommend_order&years=-1&locations=all](https://www.wanted.co.kr/wdlist/518?country=kr&job_sort=job.recommend_order&years=-1&locations=all)
 
 아래는 가상의 채용 공고를 분석해본 사례이다. 
