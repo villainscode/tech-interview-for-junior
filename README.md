@@ -516,6 +516,9 @@ The technical interview knowledge that a junior backend developer should possess
 
 ## 주니어 개발자를 위한 기술 로드맵
 
+### 신입사원 기본 역량 로드맵 
+![https://github.com/villainscode](./image/new_roadmap_2024.png)
+
 ### 기술 목록 첫번째 - 전반적인 백엔드 기술 로드맵
 
 ![https://roadmap.sh](./image/roadmap.png)
