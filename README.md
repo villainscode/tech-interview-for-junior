@@ -88,6 +88,15 @@ The technical interview knowledge that a junior backend developer should possess
     - 초기에는 책 보다는 오픈소스처럼 온라인 퍼블리싱을 기획하여 자료를 취합하기 시작
 - 최대한 실행 가능하고, 현실적으로 접근하기 쉬운 방법을 제시하려고 노력함
 
+
+# 인프런 강의
+
+<img src="./image/inflean_code.jpeg" width="1000">
+
+- [시니어면접관이 알려주는 개발자 취업과 이직, 한방에 해결하기 이론편](https://www.inflearn.com/course/%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%A9%B4%EC%A0%91%EA%B4%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%B7%A8%EC%97%85-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EB%A1%A0)
+- [시니어면접관이 알려주는 개발자 취업과 이직, 한방에 해결하기 실전편](https://www.inflearn.com/course/%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%A9%B4%EC%A0%91%EA%B4%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%B7%A8%EC%97%85-%EC%9D%B4%EC%A7%81-%EC%8B%A4%EC%A0%84)
+
+
 ## 취업/이직을 위한 준비
 
 > **취업/이직을 위해서 어떤 부분을 준비해야 할까?**
