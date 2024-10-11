@@ -543,6 +543,10 @@ The technical interview knowledge that a junior backend developer should possess
 
 ![https://roadmap.sh](./image/roadmap.png)
 
+### 로드맵 다운로드 받기
+[신입사원기술로드맵다운받기](./image/junior-roadmap-2024.pdf)
+[백엔드기술로드맵다운받기](./image/backend-roadmap-codevillains.pdf)
+
 
 ### 기술 목록 두번째 - 자바 학습 로드맵
 
